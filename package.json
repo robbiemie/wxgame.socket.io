@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/yang657850144/wxgame.socket.io/issues"
   },
-  "homepage": "https://github.com/yang657850144/wxgame.socket.io#readme"
+  "homepage": "https://github.com/yang657850144/wxgame.socket.io#readme",
+  "dependencies": {
+    "engine.io-parser": "^2.1.3"
+  }
 }
