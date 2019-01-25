@@ -1,0 +1,24 @@
+{
+  "name": "wxgame.socket.io",
+  "version": "0.0.1",
+  "description": "支持微信小游戏的socket.io协议。",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yang657850144/wxgame.socket.io.git"
+  },
+  "keywords": [
+    "socket.io",
+    "微信小游戏",
+    "weapp"
+  ],
+  "author": "Charles Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yang657850144/wxgame.socket.io/issues"
+  },
+  "homepage": "https://github.com/yang657850144/wxgame.socket.io#readme"
+}
